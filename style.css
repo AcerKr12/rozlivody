@@ -1,0 +1,95 @@
+.mainpanel{
+    background: #ffefd2;
+    height: 1600px;
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+.white{
+    background: white;
+    height: 1600px;
+    opacity: 0.5
+}
+.voda{
+    font-family: arial;
+    color: white;
+    font-size: 40px;
+    
+}
+.pad {
+    padding-top: 30px;
+    padding-left: 70px;
+}
+.flex{
+    display: flex;
+}
+.bg{
+    background: #1f1f46;
+    height: 90px;
+    padding-top: 2px;
+    padding-left: 10px;
+    margin:0;
+    box-sizing: border-box;
+}
+.links{
+    background: #a38b76;
+    margin-right: 40px;
+    width:200px;
+    padding-top: 30px;
+    padding-left:30px;
+    box-sizing:border-box;
+}
+.info{
+    font-family: arial;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+.text{
+    background: #a38b76;
+    width: 900px;
+    padding-top: 15px;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.mainpanel2{
+    width: 1000px;
+    height: 400px;
+    margin-top: 100px;
+}
+.ssylka{
+    color: white;
+    font-family: arial;
+    font-size: 25px;
+}
+.maintitle{
+    font-size: 45px;
+    font-family: sans-serif;
+    color: white;
+}
+.secondpanel{
+    background: white;
+    height: 1600px;
+    
+}
+.picture {
+    margin-left: auto;
+    margin-right: auto;
+    width: 573px;
+    height: 509px;
+}
+.generalshoplist{
+    display: flex;
+    background: #fff791;
+    font-family: arial;
+    font-size: 8px;
+    color: aqua;
+}
+.shoppic{
+    width: 100px;
+    height: 100px;
+}
