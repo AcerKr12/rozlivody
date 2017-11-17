@@ -74,6 +74,9 @@ a{
 .secondpanel{
     background: white;
     height: 1600px;
+    font-family: arial;
+    color: black;
+    font-size: 40px;
     
 }
 .picture {
@@ -83,13 +86,27 @@ a{
     height: 509px;
 }
 .generalshoplist{
-    display: flex;
-    background: #fff791;
+    background: #efeccf;
     font-family: arial;
     font-size: 8px;
     color: aqua;
+    height: 800px;
+    box-sizing: border-box;
+    padding-top: 40px;
+    padding-left: 60px;
 }
 .shoppic{
-    width: 100px;
-    height: 100px;
+    width: 130px;
+    height: 150px;
+}
+.wdth{
+    width: 90px;
+}
+.shoplist{
+    display: flex;
+    width: 350px;
+    border: 3px inset white;
+    height: 150px;
+    margin-right: 100px;
+    margin-bottom: 30px;
 }
